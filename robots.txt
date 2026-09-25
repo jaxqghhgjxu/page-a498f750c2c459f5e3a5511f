@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.qqzpf.cn/sitemap.xml
